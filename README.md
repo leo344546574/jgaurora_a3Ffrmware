@@ -1,0 +1,1 @@
+This uses marlin 1.1.8, to upload it to your 3D printer find the Marlin/Marlin.ino file. Then upload it through Arduino IDE using a usb cable. On JGAurora a3 printers the usb port is on the back of the right side.
